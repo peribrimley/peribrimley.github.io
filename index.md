@@ -15,7 +15,6 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>Peri Brimley</h1>
         ![bio photo](https://github.com/peribrimley/peribrimley.github.io/blob/b2d357250ac0068f329ee85969c924590603578f/PB_SIC%20Bio.JPG?raw=true)
       </header>
       <section>
