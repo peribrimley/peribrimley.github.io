@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        ![bio photo](https://github.com/user-attachments/assets/72a21346-5dbf-4261-aa66-f3eb8c648986)
+        ![bio photo](/peribrimley/docs/assets/PB_SICBio.JPG)
       </header>
       <section>
         <h1>About</h1>
