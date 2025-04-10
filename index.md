@@ -12,11 +12,7 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        ![bio photo](/peribrimley/docs/assets/PB_SICBio.JPG)
-      </header>
-      
+    <div class="wrapper">      
       <section>
         <h1>About</h1>
 
