@@ -12,7 +12,11 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">      
+    <div class="wrapper">
+          </section>
+      <header>
+        ![](docs/assets/PB_SICBio.JPG)
+      </header>
       <section>
         <h1>About</h1>
 
