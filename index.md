@@ -10,12 +10,11 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
+
       <header>
         ![bio photo](/peribrimley/docs/assets/PB_SICBio.JPG)
       </header>
+      
       <section>
         <h1>About</h1>
 
